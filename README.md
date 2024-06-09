@@ -1,1 +1,1 @@
-# all of the current fortnite bone id's for bone esp
+# all of the current fortnite bone ids
