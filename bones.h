@@ -1,0 +1,25 @@
+enum BoneIDS {
+  pelvis = 2,
+  stomach = 5,
+  chest = 7,
+
+  rightChest = 8,
+  rightShoulder = 9,
+  rightWrist = 11,
+
+  rightIndexKnuckle = 13,
+  rightIndexFingerMCP = 14,
+  rightIndexFingerPIP = 15,
+  rightMiddleFingerKnuckle = 17,
+  rightMiddleFingerMCP = 18,
+  rightMiddleFingerPIP = 19,
+  rightRingFingerKnuckle = 21,
+  rightRingFingerMCP = 22,
+  rightRingFingerPIP = 23,
+  rightPinkyFingerKnuckle = 25,
+  rightPinkyFingerMCP = 26,
+  rightPinkyFingerPIP = 27,
+  rightThumbFingerKnuckle = 29,
+  rightThumbFingerMCP = 30,
+  rightThumbFingerPIP = 31,
+};
